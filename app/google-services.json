@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "569798837944",
+    "firebase_url": "https://pet-shop-b5ab4-default-rtdb.firebaseio.com",
+    "project_id": "pet-shop-b5ab4",
+    "storage_bucket": "pet-shop-b5ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569798837944:android:1958bdd25ea9ee6124d64d",
+        "android_client_info": {
+          "package_name": "com.anchietaalbano.pet_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgb6_hGc7zVOaYZ4zSVopk-YalPeFvM_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569798837944:android:e9cd3d95d6e11efa24d64d",
+        "android_client_info": {
+          "package_name": "com.anchietaalbano.pet_shop_aplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgb6_hGc7zVOaYZ4zSVopk-YalPeFvM_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
